@@ -1,0 +1,25 @@
+{
+  "name": "webpack_refresh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/consumerike/webpack_refresh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/consumerike/webpack_refresh/issues"
+  },
+  "homepage": "https://github.com/consumerike/webpack_refresh#readme",
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  },
+  "dependencies": {
+    "webpack": "^2.4.1"
+  }
+}

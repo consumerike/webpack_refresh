@@ -5,7 +5,7 @@ module.exports= {
 
     //define outpoint point
     output: {
-        path: '/dist', 
+        path: '/dist/bundle.js',
         filename: 'bundle.js'
     }
 };

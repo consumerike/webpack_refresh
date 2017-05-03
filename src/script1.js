@@ -1,2 +1,5 @@
 let message = require('./script-2');
-alert(message);
+require('./css/introComponent.scss');
+
+console.log("message should be 'nope...'", message);
+
